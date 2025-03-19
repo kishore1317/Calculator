@@ -9,7 +9,7 @@ A simple **Calculator** built using **HTML, CSS, and JavaScript**. This calculat
 - Lightweight and fast
 
 ## 🖼️ Screenshots
-![Calculator UI]<img src="./Calculator UI.png">
+<img src="./Calculator UI.png">
 
 ## 🛠️ Technologies Used
 - HTML
